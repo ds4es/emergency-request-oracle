@@ -1,5 +1,5 @@
 ## Emergency Request Oracle
-Project not started yet.
+Project not started yet waiting for contributors.
 
 Starting point: https://www.researchgate.net/publication/313451485_Predicting_taxi_demand_at_high_spatial_resolution_Approaching_the_limit_of_predictability
 
