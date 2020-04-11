@@ -1,4 +1,10 @@
-## Data Science Project Template
+## Emergency Request Oracle
+Project not started yet.
+
+Starting point: https://www.researchgate.net/publication/313451485_Predicting_taxi_demand_at_high_spatial_resolution_Approaching_the_limit_of_predictability
+
+
+## About this Data Science Project Template
 
 This template is mainly inspired by the [Cookiecutter Data Science project structure](https://drivendata.github.io/cookiecutter-data-science/) that aims to be a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 
